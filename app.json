@@ -1,0 +1,12 @@
+{
+  "name": "Angelcoating",
+  "displayName": "Angelcoating",
+  "expo": {
+    "name": "Angelcoating",
+    "slug": "Angelcoating",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
